@@ -1,0 +1,13 @@
+📦 Requirements
+
+To run this project, install the following dependencies:
+
+| Package | Version | Purpose |
+| --- | --- | --- |
+| `torch` | `>=2.0.0` | PyTorch Core - Model + Training |
+| `torchvision` | `>=0.15.0` | Datasets, Transforms, MNIST |
+| `numpy` | `>=1.24.0` | Array operations |
+
+**Install all at once:**
+```bash
+pip install -r requirements.txt
